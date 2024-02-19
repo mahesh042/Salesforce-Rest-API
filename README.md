@@ -1,5 +1,3 @@
-Sure, here's a template for your GitHub README file:
-
 ---
 
 # Salesforce Leads Data Transfer Project
